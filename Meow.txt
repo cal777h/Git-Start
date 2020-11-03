@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-It's time to start
-
-Moo cat 
-=======
-It is time to start
->>>>>>> 42f8d9c34aaf77d270dc73654a9e17861e79c3cf
